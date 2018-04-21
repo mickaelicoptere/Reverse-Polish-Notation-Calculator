@@ -7,6 +7,6 @@
 ## Example :
  ### to calculate 20+50 you would enter : **2, 0, +, 5, 0, ENTER**
 
- ### using rpn : you would type : **2, 0, ENTER, 5, 0, +**
+ ### using rpn  you would type : **2, 0, ENTER, 5, 0, +**
 
  ![RPN Example](rpncalculator.gif)
